@@ -1,4 +1,4 @@
-## Self Confidence Quotes
+## [Self Confidence Quotes](https://vinit-dantkale.github.io/Self-Confidence-Quotes/)
 
 This Project aims to provide you with beautiful quotes through API. You can use the [self-confidence-quotes](http://selfconfidencequotes.herokuapp.com/) API built using NodeJs and MongoDB Atlas.
 
